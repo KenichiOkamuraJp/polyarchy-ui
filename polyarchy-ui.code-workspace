@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "../testcode/nuxt"
+		},
+		{
+			"path": "../polyarchy-dataset"
+		},
+		{
+			"path": "../build-html"
 		}
 	],
 	"settings": {}
